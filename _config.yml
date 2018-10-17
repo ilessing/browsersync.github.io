@@ -109,7 +109,7 @@ icons:
   - title:   "UI or CLI control"
     icon:    "tv"
     tagline: "Run the new browser-based UI for quick control, or stick with the original command line usage."
-  - title:   "Sync customisation"
+  - title:   "Sync customization"
     icon:    "block"
     tagline: "Toggle individual sync settings to create your preferred test environment."
   - title:   "URL history"
